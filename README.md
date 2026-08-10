@@ -29,3 +29,21 @@ Explorar, na prática, os principais tipos de `display` e seus casos de uso, obs
 ├── index.html
 ├── style.css
 └── README.md
+
+## Como executar
+
+Clone o repositório:
+
+Clone este repositório e abra o arquivp index.html no navegador:
+
+git clone <https://github.com/kauaproenca-byte/display.git>
+
+Depois, abra o index.html.
+
+## Sobre o projeto
+
+Este projeto faz parte dos meus estudos de HTML e CSS e tem como foco aprender layout e posicionamento de elementos por meio da experimentação.
+A ideia é manter os exemplos simples e visuais para facilitar a comparação entre os diferentes valores de display.
+
+```bash
+git clone <https://github.com/kauaproenca-byte/display.git>
