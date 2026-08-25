@@ -1,0 +1,79 @@
+/* Importação dos arquivos de estilos */
+@import url(./reset.css);
+@import url(./design-system.css);
+
+.color-section {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.color-section__sidebar{
+    border: solid;
+}
+
+.color-section__title{}
+
+.color-section__menu{}
+
+.color-section__link{}
+
+.color-section__link--active{
+    color: white;
+    background-color: deeppink;
+}
+
+.color-section__link--active :hover{
+    color: white;
+    background-color: black;
+}
+
+.color-section__bar{}
+
+.color-section__bar--rgb-1{}
+
+.color-section__bar--rgb-2{}
+
+.color-section__bar--rgb-3{}
+
+.color-section__bar--rgb-4{}
+
+.color-section__bar--rgb-5{}
+
+.color-section__bar--rgb-6{}
+
+.color-section__bar--cmyk-1{}
+
+.color-section__bar--cmyk-2{}
+
+.color-section__bar--cmyk-3{}
+
+.color-section__bar--cmyk-4{}
+
+.color-section__bar--cmyk-5{}
+
+.color-section__bar--cmyk-6{}
+
+.color-section__bar--netflix-1{}
+
+.color-section__bar--netflix-2{}
+
+.color-section__bar--netflix-3{}
+
+.color-section__bar--netflix-4{}
+
+.color-section__bar--netflix-5{}
+
+.color-section__bar--netflix-6{}
+
+.color-section__bar--google-1{}
+
+.color-section__bar--google-2{}
+
+.color-section__bar--google-3{}
+
+.color-section__bar--google-4{}
+
+.color-section__bar--google-5{}
+
+.color-section__bar--google-6{}
