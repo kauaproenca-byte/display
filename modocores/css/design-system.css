@@ -26,4 +26,15 @@
     --color-cmyk-5: #03e6e6; 
     --color-cmyk-6: #d900d9; 
 
+    /* Paleta do Google */
+    --color-google-1: #4285F4;
+    --color-google-2: #FBBC05;
+    --color-google-3: #34A853;
+    --color-google-4: #EA4335;
+
+    /* Paleta Netflix */
+    --color-netflix-1: #e50914;
+    --color-netflix-2: #b81d24;
+    --color-netflix-3: #221f1f;
+    --color-netflix-4: #f5f5f1;
 }
