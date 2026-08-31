@@ -6,12 +6,24 @@
     box-sizing: border-box;
     
 }
+
+:root{
+
+    --bg-color-container: #2c2c2c;
+    --banana: #6d00eb;
+
+    --fonte-padrao: Arial;
+
+    --border-header-container: 2px solid red;
+
+}
+
 html{
-    font-family: Verdana, sans-serif;
+    font-family: var(--fonte-padrao);
 }
 
 .container{
-    background-color: #2c2c2c;
+    background-color: darkmagenta;
     width: 300px;
     height: 300px;
     font-family: 'Courier New', Courier, monospace;
@@ -21,7 +33,7 @@ html{
 
 .body-container{
     
-    background-color: blanchedalmond;
+    background-color: var(--banana);
 }
 
 
