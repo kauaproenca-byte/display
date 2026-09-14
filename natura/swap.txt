@@ -1,0 +1,34 @@
+brands
+|
+|— brands__title
+|
+|— brands__grid
+     |
+     |— brand-card (Kaiak)
+     |    |
+     |    |— brand-card__image (img)
+     |    |— brand-card__title (h2)
+     |    |— brand-card__description (p)
+     |    |— brand-card__button
+     |
+     |— brand-card (Essencial)
+
+     |    |— ...
+     |
+     |— brand-card (Luna)
+          |— ...
+
+-----------------------------------------------------------
+
+|---------------------------------------------------------|
+| conheça nossas marcas                                   |
+|                                                         |
+|  |---------|    |---------|    |---------|              |
+|  | IMAGEM  |    | IMAGEM  |    | IMAGEM  |              |
+|  |---------|    |---------|    |---------|              |
+|                                                         |
+|  Kaiak          Essencial      Luna                     |
+|  descrição      descrição      descrição                |
+|                                                         |
+|  [ conhecer ]   [ conhecer ]   [ conhecer ]             |
+|---------------------------------------------------------|
